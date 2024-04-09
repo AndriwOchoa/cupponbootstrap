@@ -1,0 +1,32 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.grey-text{
+    color: grey;
+}
+
+.green-text{
+    color:green;
+    font-weight: bold;
+    font-size: 25px;
+    gap: 5px;
+}
+
+.card-text{
+    color: grey;
+}
+
+legend{
+    color: white;
+}
+
+.btn-custom {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+    width: 100px;
+    padding: 10px;
+}
+  
